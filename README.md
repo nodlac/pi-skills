@@ -19,7 +19,7 @@ My personal skills for [pi](https://github.com/badlogic/pi-coding-agent), the co
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/pi-skills.git
+git clone https://github.com/nodlac/pi-skills.git
 ln -s "$PWD/pi-skills/learn" ~/.pi/agent/skills/learn
 ```
 
